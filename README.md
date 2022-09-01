@@ -4,4 +4,4 @@ NPM     : 2106703891
 
 Kelas   : F
 
-Hobi    : Menonton
+Hobi    : Nyanyi
